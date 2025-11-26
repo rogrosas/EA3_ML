@@ -1,3 +1,5 @@
+# Integrantes: Rodrigo Andres Santis Erices, Roger Andres Rosas peña
+
 # README_UNSUPERVISED
 
 ## 1. Introducción
